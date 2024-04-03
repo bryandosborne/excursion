@@ -1,21 +1,32 @@
 html {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background-color: #000000;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
-    text-align: center;
+  background-color: #000000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  text-align: center;
 }
 
 .header--main {
-    color: #ffffff;
-    font-size: 50px;
+  color: #ffffff;
+  font-size: 50px;
 }
 
 .link--cta {
-    color: aquamarine;
-    font-size: 16px;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+h4 {
+  color: grey;
+  font-size: 21px;
 }
